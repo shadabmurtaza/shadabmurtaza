@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Coding Platform Where I'm Usually Active</h2>
 <p align="center">
-<a href="https://leetcode.com/itsayu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsayu" height="40" width="50" /></a>
+<a href="https://leetcode.com/shadab_murtaza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsayu" height="40" width="50" /></a>
 <a href="https://www.codechef.com/users/its_akt" target="blank"><img align="center" src="https://img.icons8.com/color/72/codechef.png" alt="its_akt" height="45" width="55" /></a>
 <a href="https://auth.geeksforgeeks.org/user/itsayu/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/itsayu/profile" height="45" width="55" /></a>
 <a href="https://www.hackerrank.com/itsayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushkr9976" height="40" width="50" /></a>
@@ -121,11 +121,11 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsayu&theme=monokai">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadabmurtaza&theme=monokai">
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsayu&theme=monokai">&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsayu&theme=monokai">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shadabmurtaza&theme=monokai">&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shadabmurtaza&theme=monokai">
 </p>
 
 
