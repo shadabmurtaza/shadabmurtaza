@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about anything, i am happy to help:)
-- 📫 How to reach me: @its_AKT_
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You won't read it...!
 
@@ -52,7 +51,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">
  <!-- Typing Widget -->
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Web+Developer;Computer+Science+Student;Tech+Geek;Content+Writer&font=sans-serif&center=true&size=12">
+<img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer;Computer+Science+Student;Tech+Geek&font=sans-serif&center=true&size=12">
  
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadabmurtaza&theme=dark&hide_border=true" width=700px>
 
@@ -106,7 +105,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://leetcode.com/shadab_murtaza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsayu" height="40" width="50" /></a>
 <a href="https://www.codechef.com/users/its_akt" target="blank"><img align="center" src="https://img.icons8.com/color/72/codechef.png" alt="its_akt" height="45" width="55" /></a>
-<a href="https://auth.geeksforgeeks.org/user/itsayu/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/itsayu/profile" height="45" width="55" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shadab_murtuza/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/itsayu/profile" height="45" width="55" /></a>
 <a href="https://www.hackerrank.com/itsayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushkr9976" height="40" width="50" /></a>
 <a href="https://www.hackerearth.com/@itsayu" target="blank"><img align="center" src="https://www.svgrepo.com/show/341890/hackerearth.svg" alt="ayushkr9976" height="40" width="50" /></a>
 <a href="https://stackoverflow.com/users/18422627/ayush-kumar" target="blank"><img align="center" src="https://www.svgrepo.com/show/354386/stackoverflow-icon.svg" alt=" " height="40" width="50" /></a>
@@ -147,15 +146,16 @@ Here are some ideas to get you started:
   
 <br>
 <!-- Github contribution grid snake -->
+<!--
 <h1 align="center">Contributions</h1>
 <p align="center">
 <img alt="Snake GIF" src="https://github.com/itsayu/itsayu/blob/output/github-contribution-grid-snake.svg">
 </p>
-<br>
+<br>   -->
 
 
 <!-- outro -->
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=itsayu alt=itsayu/> </p>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=shadabmurtaza alt=shadabmurtaza/> </p>
 <p align="center"> <a href="https://twitter.com/its_aKT_" target="blank"><img src="https://img.shields.io/twitter/follow/its_akt_?logo=twitter&style=for-the-badge" alt="its_akt_" /></a> 
 </p>
 
