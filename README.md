@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 </p>
 
 
-![Ayush's's github activity graph](https://activity-graph.herokuapp.com/graph?username=shadabmurtaza&theme=gotham&hide_border=true&area=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true)
+
 
 
 <!-- Languages -->
