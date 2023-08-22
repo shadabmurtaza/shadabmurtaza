@@ -104,12 +104,12 @@ Here are some ideas to get you started:
 <h2 align="center">Coding Platform Where I'm Usually Active</h2>
 <p align="center">
 <a href="https://leetcode.com/shadab_murtaza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsayu" height="40" width="50" /></a>
-<a href="https://www.codechef.com/users/its_akt" target="blank"><img align="center" src="https://img.icons8.com/color/72/codechef.png" alt="its_akt" height="45" width="55" /></a>
+<!--a href="https://www.codechef.com/users/its_akt" target="blank"><img align="center" src="https://img.icons8.com/color/72/codechef.png" alt="its_akt" height="45" width="55" /></a-->
 <a href="https://auth.geeksforgeeks.org/user/shadab_murtuza/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/itsayu/profile" height="45" width="55" /></a>
-<a href="https://www.hackerrank.com/itsayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushkr9976" height="40" width="50" /></a>
-<a href="https://www.hackerearth.com/@itsayu" target="blank"><img align="center" src="https://www.svgrepo.com/show/341890/hackerearth.svg" alt="ayushkr9976" height="40" width="50" /></a>
-<a href="https://stackoverflow.com/users/18422627/ayush-kumar" target="blank"><img align="center" src="https://www.svgrepo.com/show/354386/stackoverflow-icon.svg" alt=" " height="40" width="50" /></a>
-<a href="https://dev.to/itsayu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="itsayu" height="40" width="50" /></a>
+<a href="https://www.hackerrank.com/shadab_murtuza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushkr9976" height="40" width="50" /></a>
+<!--a href="https://www.hackerearth.com/@itsayu" target="blank"><img align="center" src="https://www.svgrepo.com/show/341890/hackerearth.svg" alt="ayushkr9976" height="40" width="50" /></a-->
+<!--a href="https://stackoverflow.com/users/18422627/ayush-kumar" target="blank"><img align="center" src="https://www.svgrepo.com/show/354386/stackoverflow-icon.svg" alt=" " height="40" width="50" /></a-->
+<!--a href="https://dev.to/itsayu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="itsayu" height="40" width="50" /></a-->
 </p>
 <br>
 
@@ -133,14 +133,14 @@ Here are some ideas to get you started:
 <p align="center">Whether you are willing to collaborate or just checking my activity, Feel free to connect :)</p>
 
 <p align="center">
-<a href="https://twitter.com/its_akt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_akt_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ayush-kumar-432801206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar" height="28" width="40" /></a>
-<a href="https://discord.gg/Itsayu#5915" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="ayush-kumar" height="35" width="45" /></a>
-<a href="https://instagram.com/its_a.k.t?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_a.k.t" height="28" width="38" /></a>
-<a href="mailto:ayushkr9976@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Ayush Kumar Tiwari" height="30" width="40" /></a>
-<a href="https://t.me/its_akt" target="blank"><img align="center" src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" alt=" " height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100009518215980" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Ayush Kumar Tiwari" height="28" width="37" /></a>
-<a href="https://www.quora.com/profile/Ayush-Tiwari-794" target="blank"><img align="center" src="https://www.svgrepo.com/show/343515/quora-network-communication-chat-conversation-connection.svg" alt=" " height="28" width="38" /></a>
+<!--a href="https://twitter.com/its_akt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_akt_" height="30" width="40" /></a-->
+<a href="https://www.linkedin.com/in/shadab-murtaza-6257a81a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shadab_murtaza" height="28" width="40" /></a>
+<!--a href="https://discord.gg/Itsayu#5915" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="ayush-kumar" height="35" width="45" /></a-->
+<a href="https://www.instagram.com/shadab_murtaza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shadab_murtaza" height="28" width="38" /></a>
+<a href="mailto:shadabmurtuza57@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Shadab Murtaza" height="30" width="40" /></a>
+<!--a href="https://t.me/its_akt" target="blank"><img align="center" src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" alt=" " height="30" width="40" /></a-->
+<!--a href="https://www.facebook.com/profile.php?id=100009518215980" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Ayush Kumar Tiwari" height="28" width="37" /></a-->
+<!--a href="https://www.quora.com/profile/Ayush-Tiwari-794" target="blank"><img align="center" src="https://www.svgrepo.com/show/343515/quora-network-communication-chat-conversation-connection.svg" alt=" " height="28" width="38" /></a-->
 </p>
 
   
